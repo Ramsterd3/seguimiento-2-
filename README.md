@@ -8,7 +8,7 @@
 ## Estudiantes
 
 - **Juan Pablo Sánchez López** (1095208340)
-- **Antonio Quiroz Prada**
+- **Antonio Quiroz Prada** (1029580092)
 
 ---
 
